@@ -1,6 +1,6 @@
-# FlyffDesktop
+# Monitar
 
-![FlyffBanner](https://en-flyff.play2bit.com/img/flyff/og_flyff.jpg)
+![FlyffBanner](https://fontawesome.com/social/bell-on?f=&s=)
 
 Monitar is an uptime monitoring tool designed specifically for Windows applications. Its primary purpose is to continuously monitor the status of selected applications, alerting users in real-time via NTFY notifications if any monitored application becomes unresponsive or unexpectedly shuts down. With Monitar, users can ensure the uninterrupted operation of critical applications, making it ideal for environments where high availability is essential. The tool not only tracks uptime but also offers configurable monitoring intervals, customizable alerts, and detailed logs to support proactive management and troubleshooting.
 
