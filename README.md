@@ -65,7 +65,7 @@ To suggest a new feature:
 
 Contributors who help improve Zentinel.JS make a significant impact. We appreciate your dedication and effort in enhancing this project.
 
-Thank you for choosing to contribute to Zentinel.JS. We look forward to your contributions!
+Thank you for choosing to contribute to Zentinel.JS. We look forward to your contributions!.
 
 <a href="https://github.com/surelle-ha/monitar/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=surelle-ha/monitar" />
