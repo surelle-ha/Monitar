@@ -67,7 +67,7 @@ Contributors who help improve Zentinel.JS make a significant impact. We apprecia
 
 Thank you for choosing to contribute to Zentinel.JS. We look forward to your contributions!
 
-<a href="https://github.com/surelle-ha/zentineljs/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=surelle-ha/zentineljs" />
+<a href="https://github.com/surelle-ha/monitar/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=surelle-ha/monitar" />
 </a>
 
